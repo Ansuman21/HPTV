@@ -27,3 +27,6 @@ Market Insights: Understanding funding trends provides valuable insights into ma
 It is important to realize that you will be provided with a real dataset and required to do real work. More often than not, data analysis in the work scenario is meant to understand the context more deeply, demonstrate trends or patterns, and support decision-making. It is NOT a school statistics problem where there is an answer key and a prescribed approach to follow. You need to try and be resourceful and give this project your best shot.
 
 Focus on finding and interpreting the patterns and trends (or the lack thereof) from the analysis, examine what that means for the relationships between variables, and draw reasonable conclusions about startups and funding rather than getting the "right answer".
+
+
+<img width="1920" alt="Screenshot 2024-09-19 at 4 23 44 AM" src="https://github.com/user-attachments/assets/7734f54d-7068-4cd9-95c5-f8cb246a1a52">
